@@ -12,7 +12,7 @@ The purpose of this analysis is to present an interactive exploration into the b
 ## Results
 
 ***Deliverable 1: Create a Horizontal Bar Chart***
-Using your knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.:
+Using knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.:
 
 Figure 1:
 
@@ -25,7 +25,7 @@ Figure 1.1:
 
 
 ***Deliverable 2: Create a Bubble Chart***
-Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu webpage:
+Using knowledge of JavaScript, Plotly, and D3.js, create a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu webpage:
 
 Figure 2:
 
@@ -38,7 +38,7 @@ Figure 2.1:
 
 
 ***Deliverable 3: Create a Gauge Chart***
-Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu:
+Using knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu:
 
 Figure 3:
 
@@ -51,7 +51,7 @@ Figure 3.1:
 
 
 ***Deliverable 4: Customize the Dashboard***
-Use your knowledge of HTML and Bootstrap to customize the webpage for your dashboard:
+Use knowledge of HTML and Bootstrap to customize the webpage for your dashboard:
 
 Figure 4:
 
